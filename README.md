@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/theeasd" target="blank"><img src="https://img.shields.io/twitter/follow/theeasd?logo=twitter&style=for-the-badge" alt="theeasd" /></a> </p>
 
+<p><img src="https://tryhackme-badges.s3.amazonaws.com/abhigns.png" alt="Your Image Badge" /></p>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=masochism&query=$.result[0].rating&label=Codeforces%20Rating"/>
+
 - 🔭 I’m currently working on **git clone**
 
 - 👯 I’m looking to collaborate on **p2all (programing lang for psuedo code to all)**
