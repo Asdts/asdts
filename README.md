@@ -10,7 +10,7 @@
 <p><img src="https://tryhackme-badges.s3.amazonaws.com/abhigns.png" alt="Your Image Badge" /></p>
 <img src="https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=masochism&query=$.result[0].rating&label=Codeforces%20Rating"/>
 
-- 🔭 I’m currently working on **git clone**
+- 🔭 I’m currently working on **auto resume generator and website maker**
 
 - 👯 I’m looking to collaborate on **p2all (programing lang for psuedo code to all)**
 
