@@ -111,5 +111,6 @@
 _“Build. Break. Learn. Repeat.”_
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=36BCF7&vCenter=true&multiline=true&width=435&height=45&lines=Typing+my+own+destiny...;Engineering+software+like+poetry...;Debugging+life+line+by+line."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=36BCF7&vCenter=true&multiline=true&width=500&height=60&lines=%F0%9F%9A%80+Typing+my+own+destiny...;%F0%9F%9B%A0%EF%B8%8F+Debugging+life+line+by+line..."/>
 </p>
+
