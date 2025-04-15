@@ -54,7 +54,7 @@
 
 ### 🌐 Connect with my neural network
 <p align="left">
-  <a href="https://twitter.com/theeasd" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/asdts_ml" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/asdts" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://hashnode.com/@asdts13" target="blank"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/psycho_coder_2" target="blank"><img src="https://img.shields.io/badge/CodeChef-%23322F2F.svg?style=for-the-badge&logo=codechef&logoColor=white"/></a>
